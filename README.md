@@ -1,4 +1,4 @@
-# Robot controlled via bluetooth
+# Robot car controlled via bluetooth
 
 The robotic car is controlled wiressly via a Smartphone, the smarthphone has an Android app
 through which  can be sent commands directly to the Robot.
